@@ -5,12 +5,4 @@ folium==0.15.1
 streamlit-folium==0.15.1
 plotly==5.18.0
 pandas==2.2.0
-requests==2.31.0
-sqlite3  # This comes with Python standard library
-json  # This comes with Python standard library
-logging  # This comes with Python standard library
-datetime  # This comes with Python standard library
-time  # This comes with Python standard library
-random  # This comes with Python standard library
-typing  # This comes with Python standard library
-re  # This comes with Python standard library 
+requests==2.31.0 
