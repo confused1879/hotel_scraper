@@ -1,9 +1,7 @@
-greenlet==2.0.2
 playwright==1.35.0
 python-dotenv==1.0.0
-streamlit==1.31.1
-folium==0.15.1
-streamlit-folium==0.15.1
-plotly==5.18.0
 pandas==2.2.0
-requests==2.31.0 
+requests==2.31.0
+plotly==5.18.0
+folium==0.15.1
+streamlit-folium==0.15.1 
