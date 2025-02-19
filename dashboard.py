@@ -89,7 +89,7 @@ class TennisHotelsDashboard:
             self.df = pd.DataFrame()
 
     def create_map(self, data):
-        """Create a folium map with hotel markers"""
+        """Create a plotly map with hotel markers"""
         try:
             # Remove any rows with missing coordinates
             data = data.dropna(subset=['latitude', 'longitude'])
@@ -98,36 +98,41 @@ class TennisHotelsDashboard:
                 st.warning("No hotels with location data to display on map.")
                 return None
             
-            # Center the map on the mean coordinates
-            center_lat = data['latitude'].mean()
-            center_lon = data['longitude'].mean()
-            
-            m = folium.Map(location=[center_lat, center_lon], zoom_start=4)
-            
-            for _, row in data.iterrows():
-                # Create detailed popup content
-                popup_html = f"""
-                    <div style="width: 200px;">
-                        <h4>{row['name']}</h4>
-                        <p><b>Location:</b> {row['location']}, {row['country']}</p>
-                        <p><b>Tennis Courts:</b> {row['total_courts']} ({row['lighted_courts']} lighted)</p>
-                        <p><b>Surfaces:</b> {row['surface_types'] or 'Not specified'}</p>
-                        <p><b>Price:</b> {row['currency']} {row['price']:.2f}</p>
-                        <p><b>Rating:</b> {row['rating_score']} ({row['rating_text']})</p>
-                        <p><b>Amenities:</b><br>
-                        {'✓' if row['lessons_available'] else '✗'} Lessons<br>
-                        {'✓' if row['equipment_rental'] else '✗'} Equipment Rental<br>
-                        {'✓' if row['tennis_camps'] else '✗'} Tennis Camps</p>
-                    </div>
-                """
-                
-                folium.Marker(
-                    [row['latitude'], row['longitude']],
-                    popup=folium.Popup(popup_html, max_width=300),
-                    icon=folium.Icon(color='red', icon='info-sign')
-                ).add_to(m)
-            
-            return m
+            # Create hover text
+            hover_text = data.apply(lambda row: f"""
+                <b>{row['name']}</b><br>
+                Location: {row['location']}, {row['country']}<br>
+                Tennis Courts: {row['total_courts']} ({row['lighted_courts']} lighted)<br>
+                Surfaces: {row['surface_types'] or 'Not specified'}<br>
+                Price: {row['currency']} {row['price']:.2f}<br>
+                Rating: {row['rating_score']} ({row['rating_text']})
+            """, axis=1)
+
+            # Create the map
+            fig = px.scatter_mapbox(
+                data,
+                lat='latitude',
+                lon='longitude',
+                hover_name='name',
+                hover_data={
+                    'latitude': False,
+                    'longitude': False,
+                    'total_courts': True,
+                    'rating_score': True,
+                    'price': True
+                },
+                zoom=2,
+                title='Hotel Locations'
+            )
+
+            # Update the layout to use OpenStreetMap style
+            fig.update_layout(
+                mapbox_style="open-street-map",
+                margin={"r":0,"t":0,"l":0,"b":0},
+                height=600
+            )
+
+            return fig
             
         except Exception as e:
             st.error(f"Error creating map: {str(e)}")
@@ -210,7 +215,7 @@ class TennisHotelsDashboard:
                         st.subheader("Hotel Locations")
                         map_fig = self.create_map(hotels_df)
                         if map_fig:
-                            folium_static(map_fig)
+                            st.plotly_chart(map_fig, use_container_width=True)
                         
                         # Show results table
                         st.subheader("Hotel List")
@@ -269,7 +274,7 @@ class TennisHotelsDashboard:
         st.subheader("Hotel Locations")
         map_fig = self.create_map(filtered_df)
         if map_fig:
-            folium_static(map_fig)
+            st.plotly_chart(map_fig, use_container_width=True)
         
         # Analysis section
         st.subheader("Analysis")
