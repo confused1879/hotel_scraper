@@ -1,0 +1,1700 @@
+{
+  "Slano": {
+    "lat": 42.7875595,
+    "lon": 17.8897857,
+    "country_code": "hr",
+    "formatted_address": "Slano, Op\u0107ina Dubrova\u010dko primorje, Dubrova\u010dko-neretvanska \u017eupanija, Hrvatska"
+  },
+  "Durres": {
+    "lat": 41.313255,
+    "lon": 19.4462348,
+    "country_code": "al",
+    "formatted_address": "Bashkia Durr\u00ebs, Qarku i Durr\u00ebsit, Shqip\u00ebria Veriore, Shqip\u00ebria"
+  },
+  "Lagos": {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "country_code": "ng",
+    "formatted_address": "Lagos, Lagos Island, Lagos, 100242, Nigeria"
+  },
+  "Ixia Rhodes": {
+    "lat": 36.4172833,
+    "lon": 28.1811983,
+    "country_code": "gr",
+    "formatted_address": "Villa Amelie Ixia Rhodes, \u03a3\u03c9\u03c4\u03ae\u03c1\u03bf\u03c2, \u03a1\u03cc\u03b4\u03bf\u03c2, \u0399\u03b1\u03bb\u03c5\u03c3\u03cc\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 851 01, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Santa Cruz": {
+    "lat": 28.467178,
+    "lon": -16.2507843,
+    "country_code": "es",
+    "formatted_address": "Santa Cruz de Tenerife, Canarias, Espa\u00f1a"
+  },
+  "San Jose del Cabo": {
+    "lat": 23.0598364,
+    "lon": -109.7025148,
+    "country_code": "mx",
+    "formatted_address": "San Jos\u00e9 del Cabo, Municipio de Los Cabos, Baja California Sur, 23400, M\u00e9xico"
+  },
+  "Luso": {
+    "lat": 40.3839144,
+    "lon": -8.3760251,
+    "country_code": "pt",
+    "formatted_address": "Luso, Mealhada, Aveiro, Portugal"
+  },
+  "Malia": {
+    "lat": 34.8166632,
+    "lon": 32.7827114,
+    "country_code": "cy",
+    "formatted_address": "\u039c\u03b1\u03bb\u03bb\u03b9\u03ac, Malia, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, 4777, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+  },
+  "Albufeira": {
+    "lat": 37.088241,
+    "lon": -8.2526339,
+    "country_code": "pt",
+    "formatted_address": "Albufeira, Faro, Portugal"
+  },
+  "Ayia Napa": {
+    "lat": 34.9893216,
+    "lon": 33.9962036,
+    "country_code": "cy",
+    "formatted_address": "\u0391\u03b3\u03af\u03b1 \u039d\u03ac\u03c0\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b3\u03af\u03b1\u03c2 \u039d\u03ac\u03c0\u03b1\u03c2, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, 5330, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+  },
+  "Comporta": {
+    "lat": 38.3803765,
+    "lon": -8.7859968,
+    "country_code": "pt",
+    "formatted_address": "Comporta, Alc\u00e1cer do Sal, Set\u00fabal, Portugal"
+  },
+  "Alte": {
+    "lat": 37.2360568,
+    "lon": -8.1753922,
+    "country_code": "pt",
+    "formatted_address": "Alte, Loul\u00e9, Faro, Portugal"
+  },
+  "Sibenik": {
+    "lat": 43.7340647,
+    "lon": 15.8944767,
+    "country_code": "hr",
+    "formatted_address": "Grad \u0160ibenik, \u0160ibensko-kninska \u017eupanija, Hrvatska"
+  },
+  "Limassol": {
+    "lat": 34.6852901,
+    "lon": 33.0332657,
+    "country_code": "cy",
+    "formatted_address": "\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+  },
+  "Linda-a-Pastora": {
+    "lat": 38.7147436,
+    "lon": -9.2559081,
+    "country_code": "pt",
+    "formatted_address": "Linda-a-Pastora, Carnaxide e Queijas, Oeiras, Lisboa, 2790-447, Portugal"
+  },
+  "Armacao de Pera": {
+    "lat": 37.1042384,
+    "lon": -8.3627308,
+    "country_code": "pt",
+    "formatted_address": "Arma\u00e7\u00e3o de P\u00eara, Silves, Faro, Portugal"
+  },
+  "Mastihari": {
+    "lat": 36.8497293,
+    "lon": 27.0752871,
+    "country_code": "gr",
+    "formatted_address": "Mastihari Panorama, \u0394\u03b9\u03b1\u03ba\u03bb\u03ac\u03b4\u03c9\u03c3\u03b7 \u039c\u03b1\u03c3\u03c4\u03b9\u03c7\u03b1\u03c1\u03af\u03bf\u03c5, \u039c\u03b1\u03c3\u03c4\u03b9\u03c7\u03ac\u03c1\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c9, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03c9, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 853 02, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Golden Triangle": {
+    "lat": 39.931168099999994,
+    "lon": -75.04346669704907,
+    "country_code": "us",
+    "formatted_address": "Golden Triangle, Cherry Hill Township, Camden County, New Jersey, United States"
+  },
+  "Vilamoura": {
+    "lat": 37.0759505,
+    "lon": -8.1165401,
+    "country_code": "pt",
+    "formatted_address": "Vilamoura, Quarteira, Loul\u00e9, Faro, 8125-401, Portugal"
+  },
+  "Meolo": {
+    "lat": 45.6194293,
+    "lon": 12.4530566,
+    "country_code": "it",
+    "formatted_address": "Meolo, Venezia, Veneto, 30020, Italia"
+  },
+  "Portimao": {
+    "lat": 37.1375808,
+    "lon": -8.5368426,
+    "country_code": "pt",
+    "formatted_address": "Portim\u00e3o, Faro, Portugal"
+  },
+  "Ferreira do Zezere": {
+    "lat": 39.6934308,
+    "lon": -8.2905545,
+    "country_code": "pt",
+    "formatted_address": "Ferreira do Z\u00eazere, Santar\u00e9m, Portugal"
+  },
+  "Adelianos Kampos": {
+    "lat": 35.3728304,
+    "lon": 24.5449301,
+    "country_code": "gr",
+    "formatted_address": "ADELIANOS KAMPOS, \u039c\u03ac\u03c7\u03b7\u03c2 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03b4\u03b5\u03bb\u03b9\u03b1\u03bd\u03cc\u03c2 \u039a\u03ac\u03bc\u03c0\u03bf\u03c2, \u03a1\u03ad\u03b8\u03c5\u03bc\u03bd\u03bf, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, 741 33, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Gouvia": {
+    "lat": 39.6517343,
+    "lon": 19.8443096,
+    "country_code": "gr",
+    "formatted_address": "\u0393\u03bf\u03c5\u03b2\u03b9\u03ac, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0394\u03b9\u03b1\u03c0\u03bf\u03bd\u03c4\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 491 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Franschhoek": {
+    "lat": -33.909167,
+    "lon": 19.119444,
+    "country_code": "za",
+    "formatted_address": "Franschhoek, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7690, South Africa"
+  },
+  "Esposende": {
+    "lat": 41.5315251,
+    "lon": -8.7792538,
+    "country_code": "pt",
+    "formatted_address": "Esposende, Braga, Portugal"
+  },
+  "Povoa de Varzim": {
+    "lat": 41.3794188,
+    "lon": -8.7598689,
+    "country_code": "pt",
+    "formatted_address": "P\u00f3voa de Varzim, Porto, Portugal"
+  },
+  "Ponta Delgada": {
+    "lat": 37.7393398,
+    "lon": -25.6689503,
+    "country_code": "pt",
+    "formatted_address": "Ponta Delgada, A\u00e7ores, Portugal"
+  },
+  "Torre del Greco": {
+    "lat": 40.7879211,
+    "lon": 14.3682813,
+    "country_code": "it",
+    "formatted_address": "Torre del Greco, Napoli, Campania, 80059, Italia"
+  },
+  "San Martino Buon Albergo": {
+    "lat": 45.421687,
+    "lon": 11.09689,
+    "country_code": "it",
+    "formatted_address": "San Martino Buon Albergo, Verona, Veneto, 37036, Italia"
+  },
+  "Kosiv": {
+    "lat": 48.315802,
+    "lon": 25.0983417,
+    "country_code": "ua",
+    "formatted_address": "\u041a\u043e\u0441\u0456\u0432, \u041a\u043e\u0441\u0456\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0433\u0440\u043e\u043c\u0430\u0434\u0430, \u041a\u043e\u0441\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 78600, \u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+  },
+  "Estreito de Camara de Lobos": {
+    "lat": 32.6710994,
+    "lon": -16.9799729,
+    "country_code": "pt",
+    "formatted_address": "Estreito de C\u00e2mara de Lobos, C\u00e2mara de Lobos, Madeira, Portugal"
+  },
+  "Marathon FL": {
+    "lat": 24.7137524,
+    "lon": -81.0903512,
+    "country_code": "us",
+    "formatted_address": "Marathon, Monroe County, Florida, United States"
+  },
+  "Luz": {
+    "lat": -19.7903123,
+    "lon": -45.6818948,
+    "country_code": "br",
+    "formatted_address": "Luz, Regi\u00e3o Geogr\u00e1fica Imediata de Dores do Indai\u00e1, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Divin\u00f3polis, Minas Gerais, Regi\u00e3o Sudeste, 35595-000, Brasil"
+  },
+  "Belek": {
+    "lat": 36.8633459,
+    "lon": 31.0578184,
+    "country_code": "tr",
+    "formatted_address": "Belek Mahallesi, Serik, Antalya, Akdeniz B\u00f6lgesi, 07506, T\u00fcrkiye"
+  },
+  "Ialyssos": {
+    "lat": 36.4217691,
+    "lon": 28.1484186,
+    "country_code": "gr",
+    "formatted_address": "Ialyssos Bay Suneo Club, \u03a6\u03b5\u03c1\u03b5\u03bd\u03af\u03ba\u03b7\u03c2, \u03a1\u03cc\u03b4\u03bf\u03c2, \u0399\u03b1\u03bb\u03c5\u03c3\u03cc\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 851 01, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Speyside": {
+    "lat": 11.2936839,
+    "lon": -60.533741,
+    "country_code": "tt",
+    "formatted_address": "Speyside, Tobago, Trinidad and Tobago"
+  },
+  "Vila Nova de Gaia": {
+    "lat": 41.1300103,
+    "lon": -8.6058415,
+    "country_code": "pt",
+    "formatted_address": "Vila Nova de Gaia, Porto, Portugal"
+  },
+  "Vau": {
+    "lat": 45.645335,
+    "lon": -1.0623397,
+    "country_code": "fr",
+    "formatted_address": "Vaux-sur-Mer, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 17640, France"
+  },
+  "Monte Petriolo": {
+    "lat": 43.4170804,
+    "lon": 12.0896623,
+    "country_code": "it",
+    "formatted_address": "Petriolo, Monte Santa Maria Tiberina, Perugia, Umbria, 06010, Italia"
+  },
+  "Falmouth": {
+    "lat": 50.1552197,
+    "lon": -5.0688262,
+    "country_code": "gb",
+    "formatted_address": "Falmouth, Cornwall, England, United Kingdom"
+  },
+  "Sounio": {
+    "lat": -34.6246653,
+    "lon": -58.4345994,
+    "country_code": "ar",
+    "formatted_address": "Sounio, Avenida Jos\u00e9 Mar\u00eda Moreno, Caballito, Buenos Aires, Comuna 6, Ciudad Aut\u00f3noma de Buenos Aires, 1424, Argentina"
+  },
+  "Carcavelos": {
+    "lat": 38.69210915,
+    "lon": -9.335470188377633,
+    "country_code": "pt",
+    "formatted_address": "Carcavelos, Carcavelos e Parede, Cascais, Lisboa, Portugal"
+  },
+  "Obidos": {
+    "lat": 39.3619514,
+    "lon": -9.157153,
+    "country_code": "pt",
+    "formatted_address": "\u00d3bidos, Leiria, Portugal"
+  },
+  "Resende": {
+    "lat": -22.4683626,
+    "lon": -44.4463494,
+    "country_code": "br",
+    "formatted_address": "Resende, Regi\u00e3o Geogr\u00e1fica Imediata de Resende, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Volta Redonda-Barra Mansa, Rio de Janeiro, Regi\u00e3o Sudeste, Brasil"
+  },
+  "Funchal": {
+    "lat": 32.6496497,
+    "lon": -16.9086783,
+    "country_code": "pt",
+    "formatted_address": "Funchal, Madeira, Portugal"
+  },
+  "Cruz de Huanacaxtle": {
+    "lat": 20.7507286,
+    "lon": -105.382915,
+    "country_code": "mx",
+    "formatted_address": "La Cruz de Huanacaxtle, Bah\u00eda de Banderas, Nayarit, 13098, M\u00e9xico"
+  },
+  "Puerto Escondido": {
+    "lat": 9.0142629,
+    "lon": -76.2625983,
+    "country_code": "co",
+    "formatted_address": "Puerto Escondido, Costanera, C\u00f3rdoba, RAP Caribe, Colombia"
+  },
+  "Can Picafort": {
+    "lat": 39.76802,
+    "lon": 3.1493162,
+    "country_code": "es",
+    "formatted_address": "Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, Espa\u00f1a"
+  },
+  "Sesimbra": {
+    "lat": 38.4436932,
+    "lon": -9.0996273,
+    "country_code": "pt",
+    "formatted_address": "Sesimbra, Set\u00fabal, Portugal"
+  },
+  "Chaves": {
+    "lat": 41.7399003,
+    "lon": -7.4715213,
+    "country_code": "pt",
+    "formatted_address": "Chaves, Vila Real, Portugal"
+  },
+  "Ascona": {
+    "lat": 46.1554222,
+    "lon": 8.7707865,
+    "country_code": "ch",
+    "formatted_address": "Ascona, Circolo dell'Isole, Distretto di Locarno, Ticino, 6612, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Faliraki": {
+    "lat": 36.3403146,
+    "lon": 28.2019955,
+    "country_code": "gr",
+    "formatted_address": "\u03a6\u03b1\u03bb\u03b7\u03c1\u03ac\u03ba\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 851 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Fethiye": {
+    "lat": 36.6221019,
+    "lon": 29.1153234,
+    "country_code": "tr",
+    "formatted_address": "Fethiye, Mu\u011fla, Ege B\u00f6lgesi, T\u00fcrkiye"
+  },
+  "Estoril": {
+    "lat": 38.70957065,
+    "lon": -9.390136815849147,
+    "country_code": "pt",
+    "formatted_address": "Estoril, Cascais e Estoril, Cascais, Lisboa, Portugal"
+  },
+  "Carvoeiro": {
+    "lat": 41.65693265,
+    "lon": -8.66101269257822,
+    "country_code": "pt",
+    "formatted_address": "Carvoeiro, Viana do Castelo, Portugal"
+  },
+  "Pissouri": {
+    "lat": 34.6689046,
+    "lon": 32.7010481,
+    "country_code": "cy",
+    "formatted_address": "\u03a0\u03b9\u03c3\u03c3\u03bf\u03cd\u03c1\u03b9, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, 4607, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+  },
+  "Cristian": {
+    "lat": 45.6259075,
+    "lon": 25.4793004,
+    "country_code": "ro",
+    "formatted_address": "Cristian, Zona Metropolitan\u0103 Bra\u0219ov, Bra\u0219ov, 507055, Rom\u00e2nia"
+  },
+  "Quinta do Lago": {
+    "lat": 38.8251696,
+    "lon": -9.2634594,
+    "country_code": "pt",
+    "formatted_address": "Quinta do Lago, Almornos, Almargem do Bispo, P\u00earo Pinheiro e Montelavar, Sintra, Lisboa, 2715-403, Portugal"
+  },
+  "Aldeia da Serra": {
+    "lat": 38.7938125,
+    "lon": -7.9675083,
+    "country_code": "pt",
+    "formatted_address": "Aldeia da Serra, S\u00e3o Greg\u00f3rio e Santa Justa, Arraiolos, \u00c9vora, 7040-401, Portugal"
+  },
+  "Evora": {
+    "lat": 38.5707742,
+    "lon": -7.9092808,
+    "country_code": "pt",
+    "formatted_address": "\u00c9vora, Portugal"
+  },
+  "Fundao": {
+    "lat": 40.1408065,
+    "lon": -7.5017521,
+    "country_code": "pt",
+    "formatted_address": "Fund\u00e3o, Castelo Branco, Portugal"
+  },
+  "Hersonissos": {
+    "lat": 35.3057475,
+    "lon": 25.4102713,
+    "country_code": "gr",
+    "formatted_address": "HERSONISSOS, \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5, \u039a\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b9\u03bc\u03ad\u03bd\u03bf\u03c2 \u03a7\u03b5\u03c1\u03c3\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b5\u03c1\u03c3\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a7\u03b5\u03c1\u03c3\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, 700 14, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Manama": {
+    "lat": 26.2235041,
+    "lon": 50.5822436,
+    "country_code": "bh",
+    "formatted_address": "\u0627\u0644\u0645\u0646\u0627\u0645\u0629, \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629, 308, \u0627\u0644\u0628\u062d\u0631\u064a\u0646"
+  },
+  "Salalah": {
+    "lat": 17.0174945,
+    "lon": 54.1010923,
+    "country_code": "om",
+    "formatted_address": "\u0635\u0644\u0627\u0644\u0629, \u0645\u062d\u0627\u0641\u0638\u0629 \u0638\u0641\u0627\u0631, 999, \u0639\u0645\u0627\u0646"
+  },
+  "Sohar": {
+    "lat": 22.9869363,
+    "lon": 79.99392674092613,
+    "country_code": "in",
+    "formatted_address": "Sohar, Jabalpur Tahsil, Jabalpur, Madhya Pradesh, India"
+  },
+  "Curia": {
+    "lat": 40.4245452,
+    "lon": -8.4560786,
+    "country_code": "pt",
+    "formatted_address": "Curia, EM 1-9, Curia, Tamengos, Aguim e \u00d3is do Bairro, Anadia, Aveiro, 3780-547, Portugal"
+  },
+  "Hisaronu": {
+    "lat": 40.3560884,
+    "lon": 43.477371,
+    "country_code": "tr",
+    "formatted_address": "Hisar\u00f6n\u00fc, Digor, Kars, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye"
+  },
+  "Monte Real": {
+    "lat": 39.838867500000006,
+    "lon": -8.875695318865047,
+    "country_code": "pt",
+    "formatted_address": "Monte Real, Leiria, Portugal"
+  },
+  "Hurghada": {
+    "lat": 27.222556,
+    "lon": 33.8307062,
+    "country_code": "eg",
+    "formatted_address": "\u0627\u0644\u063a\u0631\u062f\u0642\u0629, \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631, 84512, \u0645\u0635\u0631"
+  },
+  "Diani Beach": {
+    "lat": -4.3124918999999995,
+    "lon": 39.57935977610471,
+    "country_code": "ke",
+    "formatted_address": "Diani Beach, Ukunda, Ukunda ward, Msambweni, Kwale, Coast, 80401, Kenya"
+  },
+  "Turcifal": {
+    "lat": 39.0421904,
+    "lon": -9.2661803,
+    "country_code": "pt",
+    "formatted_address": "Turcifal, Torres Vedras, Lisboa, Portugal"
+  },
+  "Elounda": {
+    "lat": 29.416354366590223,
+    "lon": -98.7727035221003,
+    "country_code": "us",
+    "formatted_address": "Elounda, Arcadia Ridge, Bexar County, Texas, United States"
+  },
+  "Pythagoreio": {
+    "lat": 37.705381149999994,
+    "lon": 26.88336346531717,
+    "country_code": "gr",
+    "formatted_address": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03c5\u03b8\u03b1\u03b3\u03bf\u03c1\u03b5\u03af\u03bf\u03c5, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u03a3\u03ac\u03bc\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03ac\u03bc\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03cc\u03c1\u03b5\u03b9\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Riba Douro": {
+    "lat": 41.551208,
+    "lon": -7.9678771,
+    "country_code": "pt",
+    "formatted_address": "Ribeira do Rio Douro, Rio Douro, Cabeceiras de Basto, Braga, Portugal"
+  },
+  "Vale do Lobo": {
+    "lat": -22.8098604,
+    "lon": -46.0798252,
+    "country_code": "br",
+    "formatted_address": "Vale do Lobo, Camanducaia, Regi\u00e3o Geogr\u00e1fica Imediata de Pouso Alegre, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Pouso Alegre, Minas Gerais, Regi\u00e3o Sudeste, Brasil"
+  },
+  "Sozopol": {
+    "lat": 42.320660000000004,
+    "lon": 27.369348177501017,
+    "country_code": "bg",
+    "formatted_address": "\u0421\u043e\u0437\u043e\u043f\u043e\u043b, \u0411\u0443\u0440\u0433\u0430\u0441, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+  },
+  "Baa Atoll": {
+    "lat": 5.1864551,
+    "lon": 73.00818466532209,
+    "country_code": "mv",
+    "formatted_address": "Southern Maalhosmadulhu Atoll, \u0789\u07a7\u0785\u07ae\u0790\u07b0\u0789\u07a6\u0791\u07aa\u078d\u07aa \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8, \u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
+  },
+  "Coles Bay": {
+    "lat": -42.125218,
+    "lon": 148.2885381,
+    "country_code": "au",
+    "formatted_address": "Coles Bay, Glamorgan-Spring Bay, Tasmania, 7215, Australia"
+  },
+  "Puerto Morelos": {
+    "lat": 20.931763349999997,
+    "lon": -87.20118055024015,
+    "country_code": "mx",
+    "formatted_address": "Puerto Morelos, Quintana Roo, M\u00e9xico"
+  },
+  "Paphos": {
+    "lat": 34.7743988,
+    "lon": 32.4231586,
+    "country_code": "cy",
+    "formatted_address": "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ac\u03c6\u03bf\u03c5, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03ac\u03c6\u03bf\u03c5, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+  },
+  "Zurich": {
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "country_code": "ch",
+    "formatted_address": "Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Stratford-upon-Avon": {
+    "lat": 52.1927803,
+    "lon": -1.70634,
+    "country_code": "gb",
+    "formatted_address": "Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, United Kingdom"
+  },
+  "Braganca": {
+    "lat": 41.8071182,
+    "lon": -6.7589839,
+    "country_code": "pt",
+    "formatted_address": "Bragan\u00e7a, Portugal"
+  },
+  "Oliveira do Hospital": {
+    "lat": 40.37918575,
+    "lon": -7.857214780843502,
+    "country_code": "pt",
+    "formatted_address": "Oliveira do Hospital, Coimbra, Portugal"
+  },
+  "Gjovik": {
+    "lat": 60.87216165,
+    "lon": 10.503886379493999,
+    "country_code": "no",
+    "formatted_address": "Gj\u00f8vik, Innlandet, Norge"
+  },
+  "Hatton": {
+    "lat": 47.6397087,
+    "lon": -97.4534224,
+    "country_code": "us",
+    "formatted_address": "Hatton, Traill County, North Dakota, United States"
+  },
+  "Sant'Agnello": {
+    "lat": 40.630006,
+    "lon": 14.397136,
+    "country_code": "it",
+    "formatted_address": "Sant'Agnello, Napoli, Campania, 80065, Italia"
+  },
+  "Nusa Dua": {
+    "lat": -8.8016777,
+    "lon": 115.2239305,
+    "country_code": "id",
+    "formatted_address": "Nusa Dua, Benoa, Kuta Selatan, Badung, Bali, Nusa Tenggara, 80363, Indonesia"
+  },
+  "Playa d'en Bossa": {
+    "lat": 38.8961728,
+    "lon": 1.415486,
+    "country_code": "es",
+    "formatted_address": "Playa d'en Bossa (Ibiza), Ses Figueres, la Punta, Eivissa, Illes Balears, 07800, Espa\u00f1a"
+  },
+  "Budapest": {
+    "lat": 47.48138955,
+    "lon": 19.14609412691246,
+    "country_code": "hu",
+    "formatted_address": "Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, Magyarorsz\u00e1g"
+  },
+  "Caldas da Felgueira": {
+    "lat": 40.488602,
+    "lon": -7.8651917,
+    "country_code": "pt",
+    "formatted_address": "Caldas da Felgueira, Canas de Senhorim, Nelas, Viseu, 3525-352, Portugal"
+  },
+  "Protaras": {
+    "lat": 35.0149462,
+    "lon": 34.0531284,
+    "country_code": "cy",
+    "formatted_address": "\u03a0\u03c1\u03c9\u03c4\u03b1\u03c1\u03ac\u03c2, \u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03bc\u03bd\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b1\u03c1\u03b1\u03bb\u03b9\u03bc\u03bd\u03af\u03bf\u03c5 - \u0394\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1\u03c2, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, 5297, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+  },
+  "Psalidi": {
+    "lat": 38.0488898,
+    "lon": 23.7902742,
+    "country_code": "gr",
+    "formatted_address": "\u03a8\u03b1\u03bb\u03af\u03b4\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03bc\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 15122, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Palm Coast FL": {
+    "lat": 29.5541432,
+    "lon": -81.2207673,
+    "country_code": "us",
+    "formatted_address": "Palm Coast, Flagler County, Florida, United States"
+  },
+  "Cancun": {
+    "lat": 21.1527467,
+    "lon": -86.8425761,
+    "country_code": "mx",
+    "formatted_address": "Canc\u00fan, Benito Ju\u00e1rez, Quintana Roo, M\u00e9xico"
+  },
+  "Kallithea Rhodes": {
+    "lat": 36.39301648367677,
+    "lon": 28.231636770673806,
+    "country_code": "gr",
+    "formatted_address": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1\u03c2, \u03a1\u03cc\u03b4\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 851 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Tavira": {
+    "lat": 37.1262493,
+    "lon": -7.6499121,
+    "country_code": "pt",
+    "formatted_address": "Tavira, Faro, Portugal"
+  },
+  "Praia de Mira": {
+    "lat": 40.4556419,
+    "lon": -8.8026211,
+    "country_code": "pt",
+    "formatted_address": "Praia de Mira, Mira, Coimbra, Portugal"
+  },
+  "Serpa": {
+    "lat": 37.9436517,
+    "lon": -7.5966902,
+    "country_code": "pt",
+    "formatted_address": "Serpa, Beja, Portugal"
+  },
+  "Puerto Vallarta": {
+    "lat": 20.6407176,
+    "lon": -105.220306,
+    "country_code": "mx",
+    "formatted_address": "Puerto Vallarta, Regi\u00f3n Costa Norte, Jalisco, 48300, M\u00e9xico"
+  },
+  "Montego Bay": {
+    "lat": 18.4724603,
+    "lon": -77.9217357,
+    "country_code": "jm",
+    "formatted_address": "Montego Bay, Saint James, Cornwall County, Jamaica"
+  },
+  "Cefalu": {
+    "lat": 38.034957,
+    "lon": 14.0244562,
+    "country_code": "it",
+    "formatted_address": "Cefal\u00f9, Palermo, Sicilia, 90015, Italia"
+  },
+  "Cali": {
+    "lat": 3.4519988,
+    "lon": -76.5325259,
+    "country_code": "co",
+    "formatted_address": "Cali, Sur, Valle del Cauca, RAP Pac\u00edfico, Colombia"
+  },
+  "Sarande": {
+    "lat": 39.8752198,
+    "lon": 20.0065258,
+    "country_code": "al",
+    "formatted_address": "Sarand\u00eb, Bashkia Sarand\u00eb, Qarku i Vlor\u00ebs, Shqip\u00ebria Jugore, 9701, Shqip\u00ebria"
+  },
+  "Castelo Branco": {
+    "lat": 39.97675825,
+    "lon": -7.446059929966704,
+    "country_code": "pt",
+    "formatted_address": "Castelo Branco, Portugal"
+  },
+  "Cannero Riviera": {
+    "lat": 46.0219142,
+    "lon": 8.6790472,
+    "country_code": "it",
+    "formatted_address": "Cannero Riviera, Verbano-Cusio-Ossola, Piemonte, 28821, Italia"
+  },
+  "Leiria": {
+    "lat": 39.7437902,
+    "lon": -8.8071119,
+    "country_code": "pt",
+    "formatted_address": "Leiria, Portugal"
+  },
+  "Ferragudo": {
+    "lat": 37.1235893,
+    "lon": -8.5198921,
+    "country_code": "pt",
+    "formatted_address": "Ferragudo, Lagoa, Faro, Portugal"
+  },
+  "Moncao": {
+    "lat": -3.4842036,
+    "lon": -45.2515472,
+    "country_code": "br",
+    "formatted_address": "Mon\u00e7\u00e3o, Regi\u00e3o Geogr\u00e1fica Imediata de Santa In\u00eas, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santa In\u00eas-Bacabal, Maranh\u00e3o, Regi\u00e3o Nordeste, 65360-000, Brasil"
+  },
+  "Pedrogao Pequeno": {
+    "lat": 39.9033995,
+    "lon": -8.1312252,
+    "country_code": "pt",
+    "formatted_address": "Pedr\u00f3g\u00e3o Pequeno, Sert\u00e3, Castelo Branco, Portugal"
+  },
+  "Mirleft": {
+    "lat": 29.579707,
+    "lon": -10.031733,
+    "country_code": "ma",
+    "formatted_address": "Mirleft \u2d4e\u2d49\u2d54\u2d4d\u2d3c\u2d5c \u0645\u064a\u0631\u0644\u0641\u062a, ca\u00efdat de Mirleft \u0642\u064a\u0627\u062f\u0629 \u0645\u064a\u0631\u0644\u0641\u062a, Cercle d'Ifni \u062f\u0627\u0626\u0631\u0629 \u0625\u0641\u0646\u064a, Province de Sidi Ifni \u2d5c\u2d30\u2d59\u2d33\u2d30 \u2d4f \u2d59\u2d49\u2d37\u2d49 \u2d49\u2d3c\u2d4f\u2d49 \u0625\u0642\u0644\u064a\u0645 \u0633\u064a\u062f\u064a \u0625\u0641\u0646\u064a, Guelmim-Oued Noun \u2d5c\u2d30\u2d59\u2d33\u2d30-\u2d61\u2d30\u2d37 \u2d4f\u2d53\u2d4f \u0643\u0644\u0645\u064a\u0645 \u0648\u0627\u062f\u064a \u0646\u0648\u0646, Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628"
+  },
+  "Faro": {
+    "lat": 37.0162727,
+    "lon": -7.9351771,
+    "country_code": "pt",
+    "formatted_address": "Faro, Portugal"
+  },
+  "Monfortinho": {
+    "lat": 39.9784217,
+    "lon": -6.939569252311303,
+    "country_code": "pt",
+    "formatted_address": "Monfortinho, Idanha-a-Nova, Castelo Branco, Portugal"
+  },
+  "Cascais": {
+    "lat": 38.6968919,
+    "lon": -9.4204495,
+    "country_code": "pt",
+    "formatted_address": "Cascais, Lisboa, Portugal"
+  },
+  "Maceira": {
+    "lat": 39.6847926,
+    "lon": -8.8944977,
+    "country_code": "pt",
+    "formatted_address": "Maceira, Leiria, Portugal"
+  },
+  "Lisbon": {
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "country_code": "pt",
+    "formatted_address": "Lisboa, Portugal"
+  },
+  "Calheta": {
+    "lat": 38.6055151,
+    "lon": -28.0187906,
+    "country_code": "pt",
+    "formatted_address": "Calheta, A\u00e7ores, Portugal"
+  },
+  "Viana do Castelo": {
+    "lat": 41.694867,
+    "lon": -8.831088,
+    "country_code": "pt",
+    "formatted_address": "Viana do Castelo, Portugal"
+  },
+  "Guarda": {
+    "lat": 40.7046066,
+    "lon": -7.195139236071309,
+    "country_code": "pt",
+    "formatted_address": "Guarda, Portugal"
+  },
+  "Nimes": {
+    "lat": 43.8374249,
+    "lon": 4.3600687,
+    "country_code": "fr",
+    "formatted_address": "N\u00eemes, Gard, Occitanie, France m\u00e9tropolitaine, France"
+  },
+  "Presicce": {
+    "lat": 39.899119,
+    "lon": 18.261731,
+    "country_code": "it",
+    "formatted_address": "Presicce, Presicce-Acquarica, Lecce, Puglia, 73054, Italia"
+  },
+  "Penedono": {
+    "lat": 40.9899414,
+    "lon": -7.3941885,
+    "country_code": "pt",
+    "formatted_address": "Penedono, Viseu, Portugal"
+  },
+  "Fuengirola": {
+    "lat": 36.5388398,
+    "lon": -4.6233974,
+    "country_code": "es",
+    "formatted_address": "Fuengirola, Costa del Sol Occidental, M\u00e1laga, Andaluc\u00eda, Espa\u00f1a"
+  },
+  "Jakarta": {
+    "lat": -6.1754049,
+    "lon": 106.827168,
+    "country_code": "id",
+    "formatted_address": "Daerah Khusus ibukota Jakarta, Jawa, Indonesia"
+  },
+  "Amarante": {
+    "lat": 41.2699316,
+    "lon": -8.0804563,
+    "country_code": "pt",
+    "formatted_address": "Amarante, Porto, Portugal"
+  },
+  "Yogyakarta": {
+    "lat": -7.8011998,
+    "lon": 110.3646608,
+    "country_code": "id",
+    "formatted_address": "Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, Indonesia"
+  },
+  "Miranda do Corvo": {
+    "lat": 40.0941517,
+    "lon": -8.3336555,
+    "country_code": "pt",
+    "formatted_address": "Miranda do Corvo, Coimbra, Portugal"
+  },
+  "Quarteira": {
+    "lat": 37.0712719,
+    "lon": -8.1022591,
+    "country_code": "pt",
+    "formatted_address": "Quarteira, Loul\u00e9, Faro, Portugal"
+  },
+  "Ataide": {
+    "lat": -1.8963815,
+    "lon": -61.5406841,
+    "country_code": "br",
+    "formatted_address": "Ataide, Novo Air\u00e3o, Regi\u00e3o Geogr\u00e1fica Imediata de Manacapuru, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Manaus, Amazonas, Regi\u00e3o Norte, Brasil"
+  },
+  "Oeiras": {
+    "lat": 38.6925777,
+    "lon": -9.3123076,
+    "country_code": "pt",
+    "formatted_address": "Oeiras, Lisboa, Portugal"
+  },
+  "St. Paul de Vence": {
+    "lat": 43.697972,
+    "lon": 7.1216304,
+    "country_code": "fr",
+    "formatted_address": "Saint-Paul-de-Vence, Grasse, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 06570, France"
+  },
+  "Lamego": {
+    "lat": 41.098527,
+    "lon": -7.8105708,
+    "country_code": "pt",
+    "formatted_address": "Lamego, Viseu, Portugal"
+  },
+  "Elvas": {
+    "lat": 38.8806123,
+    "lon": -7.1637237,
+    "country_code": "pt",
+    "formatted_address": "Elvas, Portalegre, Portugal"
+  },
+  "Barroselas": {
+    "lat": 41.64808185,
+    "lon": -8.690546925824654,
+    "country_code": "pt",
+    "formatted_address": "Barroselas, Barroselas e Carvoeiro, Viana do Castelo, Portugal"
+  },
+  "Povoa de Lanhoso": {
+    "lat": 41.5759516,
+    "lon": -8.2699521,
+    "country_code": "pt",
+    "formatted_address": "P\u00f3voa de Lanhoso, Braga, Portugal"
+  },
+  "Vila do Porto": {
+    "lat": 36.97262155,
+    "lon": -25.10264949987561,
+    "country_code": "pt",
+    "formatted_address": "Vila do Porto, A\u00e7ores, Portugal"
+  },
+  "Sveti Martin na Muri": {
+    "lat": 46.525052,
+    "lon": 16.3617309,
+    "country_code": "hr",
+    "formatted_address": "Op\u0107ina Sveti Martin na Muri, Me\u0111imurska \u017eupanija, 40313, Hrvatska"
+  },
+  "Trakoscan": {
+    "lat": 46.2591094,
+    "lon": 15.9479956,
+    "country_code": "hr",
+    "formatted_address": "Trako\u0161\u0107an, Op\u0107ina Bednja, Vara\u017edinska \u017eupanija, 42235, Hrvatska"
+  },
+  "Nelas": {
+    "lat": 40.5299888,
+    "lon": -7.8550987,
+    "country_code": "pt",
+    "formatted_address": "Nelas, Viseu, Portugal"
+  },
+  "Monte Gordo": {
+    "lat": 16.621419,
+    "lon": -24.3548143,
+    "country_code": "cv",
+    "formatted_address": "Monte Gordo, Nossa Senhora do Ros\u00e1rio, Ribeira Brava, Cabo Verde"
+  },
+  "Batalha": {
+    "lat": 39.6578998,
+    "lon": -8.8243713,
+    "country_code": "pt",
+    "formatted_address": "Batalha, Leiria, Portugal"
+  },
+  "Bracciano": {
+    "lat": 42.1010951,
+    "lon": 12.1738573,
+    "country_code": "it",
+    "formatted_address": "Bracciano, Roma Capitale, Lazio, Italia"
+  },
+  "Visegrad": {
+    "lat": 43.7864291,
+    "lon": 19.294097,
+    "country_code": "ba",
+    "formatted_address": "Vi\u0161egrad, Op\u0161tina Vi\u0161egrad, \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u043f\u0441\u043a\u0430 / Republika Srpska, 73240, Bosna i Hercegovina / \u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+  },
+  "Angra do Heroismo": {
+    "lat": 38.6593167,
+    "lon": -27.2195578,
+    "country_code": "pt",
+    "formatted_address": "Angra do Hero\u00edsmo, A\u00e7ores, Portugal"
+  },
+  "Ilhavo": {
+    "lat": 40.6001108,
+    "lon": -8.6666667,
+    "country_code": "pt",
+    "formatted_address": "\u00cdlhavo, Aveiro, Portugal"
+  },
+  "Mexico City": {
+    "lat": 19.4326296,
+    "lon": -99.1331785,
+    "country_code": "mx",
+    "formatted_address": "Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, M\u00e9xico"
+  },
+  "Chailly-sur-Armancon": {
+    "lat": 47.2718146,
+    "lon": 4.4851464,
+    "country_code": "fr",
+    "formatted_address": "Chailly-sur-Arman\u00e7on, Beaune, C\u00f4te-d'Or, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 21320, France"
+  },
+  "Vila Nova da Cerveira": {
+    "lat": 41.938957099999996,
+    "lon": -8.743859210886399,
+    "country_code": "pt",
+    "formatted_address": "Parque Privado da C\u00e2mara Municipal de Vila Nova de Cerveira, Rua de Santo Ant\u00f3nio, Vila Nova de Cerveira e Lovelhe, Vila Nova de Cerveira, Viana do Castelo, 4920-267, Portugal"
+  },
+  "Foz do Arelho": {
+    "lat": 39.4329582,
+    "lon": -9.2173901,
+    "country_code": "pt",
+    "formatted_address": "Foz do Arelho, Caldas da Rainha, Leiria, Portugal"
+  },
+  "Linhares": {
+    "lat": -19.3800908,
+    "lon": -40.060306,
+    "country_code": "br",
+    "formatted_address": "Linhares, Regi\u00e3o Geogr\u00e1fica Imediata de Linhares, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Mateus, Esp\u00edrito Santo, Regi\u00e3o Sudeste, Brasil"
+  },
+  "Porto Santo": {
+    "lat": 33.0657845,
+    "lon": -16.336223627136313,
+    "country_code": "pt",
+    "formatted_address": "Porto Santo, Madeira, Portugal"
+  },
+  "Adeje": {
+    "lat": 28.1219416,
+    "lon": -16.7241893,
+    "country_code": "es",
+    "formatted_address": "Adeje, Santa Cruz de Tenerife, Canarias, Espa\u00f1a"
+  },
+  "Colonia Sant Jordi": {
+    "lat": 39.3183566,
+    "lon": 2.9924466,
+    "country_code": "es",
+    "formatted_address": "Col\u00f2nia de Sant Jordi, ses Salines, Migjorn, Illes Balears, 07638, Espa\u00f1a"
+  },
+  "Almaty": {
+    "lat": 43.2363924,
+    "lon": 76.9457275,
+    "country_code": "kz",
+    "formatted_address": "\u0410\u043b\u043c\u0430\u0442\u044b, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d"
+  },
+  "Istro": {
+    "lat": 54.602687,
+    "lon": 8.343675,
+    "country_code": "de",
+    "formatted_address": "Istro, Bohlenweg, Wittd\u00fcn auf Amrum, F\u00f6hr-Amrum, Nordfriesland, Schleswig-Holstein, 25946, Deutschland"
+  },
+  "Gnas": {
+    "lat": 46.8742452,
+    "lon": 15.826349,
+    "country_code": "at",
+    "formatted_address": "Gnas, Bezirk S\u00fcdoststeiermark, Steiermark, 8342, \u00d6sterreich"
+  },
+  "Estepona": {
+    "lat": 36.4268068,
+    "lon": -5.1468484,
+    "country_code": "es",
+    "formatted_address": "Estepona, Costa del Sol Occidental, M\u00e1laga, Andaluc\u00eda, Espa\u00f1a"
+  },
+  "Montemor-o-Novo": {
+    "lat": 38.6481777,
+    "lon": -8.2115858,
+    "country_code": "pt",
+    "formatted_address": "Montemor-o-Novo, \u00c9vora, Portugal"
+  },
+  "Lviv": {
+    "lat": 49.841952,
+    "lon": 24.0315921,
+    "country_code": "ua",
+    "formatted_address": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0433\u0440\u043e\u043c\u0430\u0434\u0430, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+  },
+  "Aubais": {
+    "lat": 43.7546,
+    "lon": 4.14898,
+    "country_code": "fr",
+    "formatted_address": "Aubais, N\u00eemes, Gard, Occitanie, France m\u00e9tropolitaine, 30250, France"
+  },
+  "Lafkos": {
+    "lat": 39.1779455,
+    "lon": 23.2466508,
+    "country_code": "gr",
+    "formatted_address": "\u039b\u03b1\u03cd\u03ba\u03bf\u03c2, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03b7\u03c0\u03b9\u03ac\u03b4\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u03a0\u03b7\u03bb\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2, 370 06, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Cangey": {
+    "lat": 47.4671142,
+    "lon": 1.0611702,
+    "country_code": "fr",
+    "formatted_address": "Cangey, Loches, Indre-et-Loire, Centre-Val de Loire, France m\u00e9tropolitaine, 37530, France"
+  },
+  "Covilha": {
+    "lat": 40.2804021,
+    "lon": -7.504191,
+    "country_code": "pt",
+    "formatted_address": "Covilh\u00e3, Castelo Branco, Portugal"
+  },
+  "Peniche": {
+    "lat": 39.3568749,
+    "lon": -9.3786838,
+    "country_code": "pt",
+    "formatted_address": "Peniche, Leiria, Portugal"
+  },
+  "Linda-a-Velha": {
+    "lat": 38.711404099999996,
+    "lon": -9.240821345915375,
+    "country_code": "pt",
+    "formatted_address": "Linda-a-Velha, Alg\u00e9s, Linda-a-Velha e Cruz Quebrada-Dafundo, Oeiras, Lisboa, Portugal"
+  },
+  "Aveiro": {
+    "lat": 40.640496,
+    "lon": -8.6537841,
+    "country_code": "pt",
+    "formatted_address": "Aveiro, Portugal"
+  },
+  "Holiday Park in": {
+    "lat": 41.4107848,
+    "lon": -87.22699377428648,
+    "country_code": "us",
+    "formatted_address": "Holiday Park, 1048, Lakes of the Four Seasons, Crown Point, Winfield Township, Lake County, Indiana, 46307, United States"
+  },
+  "Costa da Caparica": {
+    "lat": 38.6445165,
+    "lon": -9.2336068,
+    "country_code": "pt",
+    "formatted_address": "Costa da Caparica, Almada, Set\u00fabal, Portugal"
+  },
+  "Ierapetra": {
+    "lat": 35.075678800000006,
+    "lon": 25.83882980527476,
+    "country_code": "gr",
+    "formatted_address": "\u0394\u03ae\u03bc\u03bf\u03c2 \u0399\u03b5\u03c1\u03ac\u03c0\u03b5\u03c4\u03c1\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03c3\u03b9\u03b8\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Sagres": {
+    "lat": -21.8840628,
+    "lon": -50.9574608,
+    "country_code": "br",
+    "formatted_address": "Sagres, Regi\u00e3o Imediata de Adamantina-Luc\u00e9lia, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Presidente Prudente, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil"
+  },
+  "Les Baux-de-Provence": {
+    "lat": 43.7436458,
+    "lon": 4.7950342,
+    "country_code": "fr",
+    "formatted_address": "Les Baux-de-Provence, Arles, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 13520, France"
+  },
+  "Farm Stay in": {
+    "lat": 9.58030775,
+    "lon": 76.48777819327556,
+    "country_code": "in",
+    "formatted_address": "Evergreen farm house & parijatham home stay, Kiliroor Devi temple road, Panampady, Illikkal, Kottayam, Kerala, 686033, India"
+  },
+  "Ubud": {
+    "lat": -8.5068977,
+    "lon": 115.2622931,
+    "country_code": "id",
+    "formatted_address": "Ubud, Kecamatan Ubud, Gianyar, Bali, Nusa Tenggara, 80571, Indonesia"
+  },
+  "Kooddoo": {
+    "lat": 0.7336290999999999,
+    "lon": 73.43314526464204,
+    "country_code": "mv",
+    "formatted_address": "\u0786\u07ab\u0787\u07b0\u0791\u07ab \u0787\u07ac\u0787\u07a6\u0783\u0795\u07af\u0793\u07b0, \u0788\u07a8\u078d\u07a8\u0782\u078e\u07a8\u078d\u07a8, \u0780\u07aa\u0788\u07a6\u078b\u07aa\u0787\u07a6\u078c\u07ae\u0785\u07aa \u0787\u07aa\u078c\u07aa\u0783\u07aa\u0784\u07aa\u0783\u07a8, \u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
+  },
+  "Miami Lakes FL": {
+    "lat": 25.9087056,
+    "lon": -80.3086619,
+    "country_code": "us",
+    "formatted_address": "Miami Lakes, Miami-Dade County, Florida, 33014, United States"
+  },
+  "Platanias": {
+    "lat": 35.516889,
+    "lon": 23.9101658,
+    "country_code": "gr",
+    "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03b9\u03ac\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03b9\u03ac, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, 730 14, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Milatos": {
+    "lat": 35.3082588,
+    "lon": 25.5655536,
+    "country_code": "gr",
+    "formatted_address": "\u039c\u03af\u03bb\u03b1\u03c4\u03bf\u03c2, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03b5\u03ac\u03c0\u03bf\u03bb\u03b7\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b3\u03af\u03bf\u03c5 \u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03c3\u03b9\u03b8\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, 721 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Kardamena": {
+    "lat": 36.7823944,
+    "lon": 27.1432793,
+    "country_code": "gr",
+    "formatted_address": "\u039a\u03b1\u03c1\u03b4\u03ac\u03bc\u03b1\u03b9\u03bd\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c9, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03c9, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 853 02, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "City of Kos": {
+    "lat": 44.749225800000005,
+    "lon": 20.458342787798664,
+    "country_code": "rs",
+    "formatted_address": "\u041a\u043e\u0448, \u0421\u043b\u0430\u0432\u043e\u0459\u0443\u0431\u0430 \u0412\u0443\u043a\u0441\u0430\u043d\u043e\u0432\u0438\u045b\u0430, \u041c\u0417 \u041c\u0438\u0459\u0430\u043a\u043e\u0432\u0430\u0447\u043a\u0438 \u0438\u0437\u0432\u043e\u0440\u0438, \u0411\u0435\u043e\u0433\u0440\u0430\u0434 (\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430), \u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11090, \u0421\u0440\u0431\u0438\u0458\u0430"
+  },
+  "Redondo": {
+    "lat": 38.6466891,
+    "lon": -7.5467636,
+    "country_code": "pt",
+    "formatted_address": "Redondo, \u00c9vora, Portugal"
+  },
+  "Melgaco": {
+    "lat": 42.1130412,
+    "lon": -8.2593422,
+    "country_code": "pt",
+    "formatted_address": "Melga\u00e7o, Viana do Castelo, Portugal"
+  },
+  "Vila Nova De Cacela": {
+    "lat": 37.1754658,
+    "lon": -7.5333882,
+    "country_code": "pt",
+    "formatted_address": "Vila Nova de Cacela, Vila Real de Santo Ant\u00f3nio, Faro, Portugal"
+  },
+  "Santiago do Cacem": {
+    "lat": 38.018461,
+    "lon": -8.6937882,
+    "country_code": "pt",
+    "formatted_address": "Santiago do Cac\u00e9m, Set\u00fabal, Portugal"
+  },
+  "Sharm El Sheikh": {
+    "lat": 27.8644422,
+    "lon": 34.295447,
+    "country_code": "eg",
+    "formatted_address": "\u0634\u0631\u0645 \u0627\u0644\u0634\u064a\u062e, \u0631\u0623\u0633 \u0623\u0645 \u0633\u062f, \u062c\u0646\u0648\u0628 \u0633\u064a\u0646\u0627\u0621, 46619, \u0645\u0635\u0631"
+  },
+  "Agios Ioannis Mykonos": {
+    "lat": 37.4232372,
+    "lon": 25.3122663,
+    "country_code": "gr",
+    "formatted_address": "Agios Ioannis, \u038c\u03c1\u03bc\u03bf\u03c5 \u0391\u03b3\u03af\u03bf\u03c5 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 - \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5, Mykonos 2, \u039a\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03c5\u03ba\u03bf\u03bd\u03af\u03c9\u03bd, \u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0394\u03b9\u03b1\u03ba\u03cc\u03c6\u03c4\u03b7\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 846 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Mistras": {
+    "lat": 37.072657,
+    "lon": 22.36799251418558,
+    "country_code": "gr",
+    "formatted_address": "\u0392\u03c5\u03b6\u03b1\u03bd\u03c4\u03b9\u03bd\u03ae \u039a\u03b1\u03c3\u03c4\u03c1\u03bf\u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u039c\u03c5\u03c3\u03c4\u03c1\u03ac, Yellow Squares, \u03a4\u03b1\u03cb\u03b3\u03ad\u03c4\u03b7, \u039a\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03c5\u03c3\u03c4\u03c1\u03ac, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03c5\u03c3\u03c4\u03c1\u03ac, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c0\u03ac\u03c1\u03c4\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 231 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Coimbra": {
+    "lat": 40.2111931,
+    "lon": -8.4294632,
+    "country_code": "pt",
+    "formatted_address": "Coimbra, Portugal"
+  },
+  "Cape Town": {
+    "lat": -33.9288301,
+    "lon": 18.4172197,
+    "country_code": "za",
+    "formatted_address": "Cape Town, City of Cape Town, Western Cape, 8001, South Africa"
+  },
+  "Nazare": {
+    "lat": -13.0345586,
+    "lon": -39.0062515,
+    "country_code": "br",
+    "formatted_address": "Nazar\u00e9, Regi\u00e3o Geogr\u00e1fica Imediata de Nazar\u00e9 \u2013 Maragogipe, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santo Ant\u00f4nio de Jesus, Bahia, Regi\u00e3o Nordeste, 44400-000, Brasil"
+  },
+  "Guimaraes": {
+    "lat": 41.4417677,
+    "lon": -8.2955712,
+    "country_code": "pt",
+    "formatted_address": "Guimar\u00e3es, Braga, Portugal"
+  },
+  "Alijo": {
+    "lat": 41.2768619,
+    "lon": -7.4753795,
+    "country_code": "pt",
+    "formatted_address": "Alij\u00f3, Vila Real, Portugal"
+  },
+  "Lazise": {
+    "lat": 45.5052005,
+    "lon": 10.7330245,
+    "country_code": "it",
+    "formatted_address": "Lazise, Verona, Veneto, 37017, Italia"
+  },
+  "Mulazzo": {
+    "lat": 44.3159261,
+    "lon": 9.8896261,
+    "country_code": "it",
+    "formatted_address": "Mulazzo, Unione di comuni Montana Lunigiana, Massa-Carrara, Toscana, Italia"
+  },
+  "Campground in": {
+    "lat": 39.17587410510302,
+    "lon": -87.24898608714426,
+    "country_code": "us",
+    "formatted_address": "Campground, Sullivan County, Indiana, 47845, United States"
+  },
+  "Motel in": {
+    "lat": 22.1710645,
+    "lon": 79.5343743,
+    "country_code": "in",
+    "formatted_address": "Motel, NH44, Chorgarthiya, Sonadongari, Seoni Tahsil, Seoni, Madhya Pradesh, India"
+  },
+  "Figueiredo das Donas": {
+    "lat": 40.73689925,
+    "lon": -8.04694604405788,
+    "country_code": "pt",
+    "formatted_address": "Figueiredo das Donas, Fataun\u00e7os e Figueiredo das Donas, Vouzela, Viseu, 3670-101, Portugal"
+  },
+  "Vouzela": {
+    "lat": 40.6754515,
+    "lon": -8.148433712602198,
+    "country_code": "pt",
+    "formatted_address": "Vouzela, Viseu, Portugal"
+  },
+  "Cabanas de Tavira": {
+    "lat": 37.14325515,
+    "lon": -7.590622907533985,
+    "country_code": "pt",
+    "formatted_address": "Cabanas de Tavira, Concei\u00e7\u00e3o e Cabanas de Tavira, Tavira, Faro, Portugal"
+  },
+  "Fenais da Luz": {
+    "lat": 37.8256797,
+    "lon": -25.6412529,
+    "country_code": "pt",
+    "formatted_address": "Fenais da Luz, Ponta Delgada, A\u00e7ores, Portugal"
+  },
+  "Sintra": {
+    "lat": 38.79846,
+    "lon": -9.3881,
+    "country_code": "pt",
+    "formatted_address": "Sintra, Lisboa, Portugal"
+  },
+  "Brazesti": {
+    "lat": 46.398486,
+    "lon": 23.3185118,
+    "country_code": "ro",
+    "formatted_address": "Br\u0103ze\u0219ti, Baia de Arie\u0219, Alba, 515301, Rom\u00e2nia"
+  },
+  "Alvor": {
+    "lat": 37.129109,
+    "lon": -8.5929383,
+    "country_code": "pt",
+    "formatted_address": "Alvor, Portim\u00e3o, Faro, Portugal"
+  },
+  "Mui Ne": {
+    "lat": 10.9339717,
+    "lon": 108.2867552,
+    "country_code": "vn",
+    "formatted_address": "Ph\u01b0\u1eddng M\u0169i N\u00e9, Th\u00e0nh ph\u1ed1 Phan Thi\u1ebft, T\u1ec9nh B\u00ecnh Thu\u1eadn, Vi\u1ec7t Nam"
+  },
+  "Ko Lanta": {
+    "lat": 7.55984195,
+    "lon": 99.05728875374527,
+    "country_code": "th",
+    "formatted_address": "\u0e40\u0e01\u0e32\u0e30\u0e25\u0e31\u0e19\u0e15\u0e32\u0e43\u0e2b\u0e0d\u0e48, \u0e2b\u0e32\u0e14\u0e04\u0e25\u0e2d\u0e07\u0e42\u0e02\u0e07, \u0e28\u0e32\u0e25\u0e32\u0e14\u0e48\u0e32\u0e19, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22"
+  },
+  "Nikiti": {
+    "lat": 40.2375562,
+    "lon": 23.5575129,
+    "country_code": "gr",
+    "formatted_address": "Nikiti, \u039d\u03ad\u03c9\u03bd \u039c\u03bf\u03c5\u03b4\u03b1\u03bd\u03b9\u03ce\u03bd - \u03a3\u03b9\u03b8\u03c9\u03bd\u03af\u03b1\u03c2, \u0392\u03b1\u03c4\u03bf\u03c0\u03ad\u03b4\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03bf\u03bb\u03c5\u03b3\u03cd\u03c1\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 630 71, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Bouro": {
+    "lat": 41.6595117,
+    "lon": -8.2700105,
+    "country_code": "pt",
+    "formatted_address": "Bouro (Santa Maria), Amares, Braga, Portugal"
+  },
+  "Manta Rota": {
+    "lat": 37.1666602,
+    "lon": -7.5206208,
+    "country_code": "pt",
+    "formatted_address": "Manta Rota, Vila Nova de Cacela, Vila Real de Santo Ant\u00f3nio, Faro, 8900-038, Portugal"
+  },
+  "Alcochete": {
+    "lat": 38.7560499,
+    "lon": -8.9608437,
+    "country_code": "pt",
+    "formatted_address": "Alcochete, Set\u00fabal, Portugal"
+  },
+  "Lourinha": {
+    "lat": 39.2433932,
+    "lon": -9.3119326,
+    "country_code": "pt",
+    "formatted_address": "Lourinh\u00e3, Lisboa, Portugal"
+  },
+  "Yanbu": {
+    "lat": 24.089019,
+    "lon": 38.0687076,
+    "country_code": "sa",
+    "formatted_address": "\u064a\u0646\u0628\u0639, \u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0646\u0628\u0639, \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629, 46424, \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+  },
+  "Grand Anse": {
+    "lat": 18.5304144,
+    "lon": -74.1511463,
+    "country_code": "ht",
+    "formatted_address": "Grand'Anse, Ayiti"
+  },
+  "Kuta": {
+    "lat": 43.5008087,
+    "lon": 18.7053366,
+    "country_code": "ba",
+    "formatted_address": "Kuta, Op\u0161tina Fo\u010da (RS), \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u043f\u0441\u043a\u0430 / Republika Srpska, Bosna i Hercegovina / \u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+  },
+  "Ras al Khaimah": {
+    "lat": 25.7737705,
+    "lon": 55.938232,
+    "country_code": "ae",
+    "formatted_address": "\u0631\u0623\u0633 \u0627\u0644\u062e\u064a\u0645\u0629, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
+  },
+  "Lavenham": {
+    "lat": 52.1100356,
+    "lon": 0.7978942,
+    "country_code": "gb",
+    "formatted_address": "Lavenham, Babergh, Suffolk, England, United Kingdom"
+  },
+  "Zermatt": {
+    "lat": 46.0212076,
+    "lon": 7.749254,
+    "country_code": "ch",
+    "formatted_address": "Zermatt, Visp, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Rojistea": {
+    "lat": 44.3744949,
+    "lon": 26.08925215,
+    "country_code": "ro",
+    "formatted_address": "Intrarea Roji\u0219tea, Sector 5, Bucure\u0219ti, 040684, Rom\u00e2nia"
+  },
+  "Skaleta": {
+    "lat": 44.87515990169901,
+    "lon": 13.851295008371924,
+    "country_code": "hr",
+    "formatted_address": "Skaleta, Punta, Mjesni odbor Arena, Pula, Grad Pula, Istarska \u017eupanija, 52109, Hrvatska"
+  },
+  "Conakry": {
+    "lat": 9.5170602,
+    "lon": -13.6998434,
+    "country_code": "gn",
+    "formatted_address": "Conakry, Guin\u00e9e"
+  },
+  "Kiotari": {
+    "lat": 36.04647445,
+    "lon": 27.954773,
+    "country_code": "gr",
+    "formatted_address": "Kiotari, \u039a\u03b9\u03bf\u03c4\u03b1\u03c1i\u03bf\u03c5 - \u0391\u03c3\u03ba\u03bb\u03b7\u03c0\u03b9\u03b5\u03af\u03bf\u03c5, \u039a\u03b9\u03bf\u03c4\u03ac\u03c1\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 851 09, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Lodge in": {
+    "lat": 9.44341065,
+    "lon": 76.5447422,
+    "country_code": "in",
+    "formatted_address": "lodge, Perunna, Changanassery, Kottayam, Kerala, India"
+  },
+  "Praia del Rei": {
+    "lat": 39.2446844,
+    "lon": -0.2559783299115203,
+    "country_code": "es",
+    "formatted_address": "Platja del Rei, Bega de Mar, Sueca, la Ribera Baixa, Val\u00e8ncia / Valencia, Comunitat Valenciana, Espa\u00f1a"
+  },
+  "Caldas da Rainha": {
+    "lat": 39.4071857,
+    "lon": -9.1346004,
+    "country_code": "pt",
+    "formatted_address": "Caldas da Rainha, Leiria, Portugal"
+  },
+  "Flic-en-Flac": {
+    "lat": -20.2789702,
+    "lon": 57.36914,
+    "country_code": "mu",
+    "formatted_address": "Flic en Flac, Black River, Mauritius / Maurice"
+  },
+  "Ribeira Grande": {
+    "lat": 37.8136666,
+    "lon": -25.464434187880435,
+    "country_code": "pt",
+    "formatted_address": "Ribeira Grande, A\u00e7ores, Portugal"
+  },
+  "Santarem": {
+    "lat": 39.2363637,
+    "lon": -8.6867081,
+    "country_code": "pt",
+    "formatted_address": "Santar\u00e9m, Portugal"
+  },
+  "Beau Vallon": {
+    "lat": -4.605533299999999,
+    "lon": 55.435484658367784,
+    "country_code": "sc",
+    "formatted_address": "Beau Vallon, Sesel"
+  },
+  "Zanzibar City": {
+    "lat": -6.1664908,
+    "lon": 39.2074312,
+    "country_code": "tz",
+    "formatted_address": "Zanzibar City \u0645\u062f\u064a\u0646\u0629 \u0632\u0646\u062c\u0628\u0627\u0631, Mjini, Unguja Mjini Magharibi, Zanzibar \u0632\u0646\u062c\u0628\u0627\u0631, 71109, Tanzania"
+  },
+  "Aghir": {
+    "lat": 33.7652032,
+    "lon": 11.0173648,
+    "country_code": "tn",
+    "formatted_address": "\u0623\u063a\u064a\u0631, \u0622\u0631\u0643\u0648, \u0645\u0639\u062a\u0645\u062f\u064a\u0629 \u062c\u0631\u0628\u0629 \u0645\u064a\u062f\u0648\u0646, \u0648\u0644\u0627\u064a\u0629 \u0645\u062f\u0646\u064a\u0646, 4176, \u062a\u0648\u0646\u0633"
+  },
+  "Agia Pelagia": {
+    "lat": 35.4080301,
+    "lon": 25.0167911,
+    "country_code": "gr",
+    "formatted_address": "\u0391\u03b3\u03af\u03b1 \u03a0\u03b5\u03bb\u03b1\u03b3\u03af\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0393\u03b1\u03b6\u03af\u03bf\u03c5, \u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03b1\u03bb\u03b5\u03b2\u03b9\u03b6\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Culebra": {
+    "lat": 18.31367755,
+    "lon": -65.28262262797452,
+    "country_code": "us",
+    "formatted_address": "Culebra, Puerto Rico, United States"
+  },
+  "Punta Cana": {
+    "lat": 18.556551,
+    "lon": -68.3691611,
+    "country_code": "do",
+    "formatted_address": "Punta Cana, Hig\u00fcey, La Altagracia, 23300, Rep\u00fablica Dominicana"
+  },
+  "Rust": {
+    "lat": 47.8037042,
+    "lon": 16.689014287384975,
+    "country_code": "at",
+    "formatted_address": "Rust, Burgenland, 7071, \u00d6sterreich"
+  },
+  "Canico": {
+    "lat": 32.65238,
+    "lon": -16.8409696,
+    "country_code": "pt",
+    "formatted_address": "Cani\u00e7o, Santa Cruz, Madeira, Portugal"
+  },
+  "Chemin Grenier": {
+    "lat": -20.4920408,
+    "lon": 57.4713418,
+    "country_code": "mu",
+    "formatted_address": "Chemin Grenier, Chemin Grenier VCA, Savanne, 60902, Mauritius / Maurice"
+  },
+  "Adana": {
+    "lat": 36.9863599,
+    "lon": 35.3252861,
+    "country_code": "tr",
+    "formatted_address": "Adana, Seyhan, Adana, Akdeniz B\u00f6lgesi, 01010, T\u00fcrkiye"
+  },
+  "Kilifi": {
+    "lat": -3.15073925,
+    "lon": 39.67507159193717,
+    "country_code": "ke",
+    "formatted_address": "Kilifi, Coast, Kenya"
+  },
+  "Napa CA": {
+    "lat": 38.4898675,
+    "lon": -122.3218414,
+    "country_code": "us",
+    "formatted_address": "Napa County, California, United States"
+  },
+  "Sitia": {
+    "lat": 35.2066248,
+    "lon": 26.1049708,
+    "country_code": "gr",
+    "formatted_address": "\u03a3\u03b7\u03c4\u03b5\u03af\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03b7\u03c4\u03b5\u03af\u03b1\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03b7\u03c4\u03b5\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03c3\u03b9\u03b8\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, 723 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Koukounaries": {
+    "lat": 39.1527351,
+    "lon": 23.4061208,
+    "country_code": "gr",
+    "formatted_address": "\u039a\u03bf\u03c5\u03ba\u03bf\u03c5\u03bd\u03b1\u03c1\u03b9\u03ad\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ba\u03b9\u03ac\u03b8\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03c0\u03bf\u03c1\u03ac\u03b4\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2, 370 02, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Stellenbosch": {
+    "lat": -33.934444,
+    "lon": 18.869167,
+    "country_code": "za",
+    "formatted_address": "Stellenbosch, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, South Africa"
+  },
+  "Santa Margarida da Serra": {
+    "lat": 38.1048777,
+    "lon": -8.597981631200291,
+    "country_code": "pt",
+    "formatted_address": "Santa Margarida da Serra, Gr\u00e2ndola, Set\u00fabal, 7570-777, Portugal"
+  },
+  "Phnom Penh": {
+    "lat": 11.5730391,
+    "lon": 104.857807,
+    "country_code": "kh",
+    "formatted_address": "\u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6"
+  },
+  "Santa Domenica": {
+    "lat": 45.136954700000004,
+    "lon": 14.081047186753253,
+    "country_code": "hr",
+    "formatted_address": "Op\u0107ina Sveta Nedelja, Istarska \u017eupanija, 52231, Hrvatska"
+  },
+  "Bentota": {
+    "lat": 6.4215276,
+    "lon": 79.9978544,
+    "country_code": "lk",
+    "formatted_address": "Bentota, Galle District, Southern Province, 12080, Sri Lanka"
+  },
+  "Panaji": {
+    "lat": 15.4989946,
+    "lon": 73.8282141,
+    "country_code": "in",
+    "formatted_address": "Panaji, Tiswadi, North Goa, Goa, 403001, India"
+  },
+  "Muscat": {
+    "lat": 23.5882019,
+    "lon": 58.3829448,
+    "country_code": "om",
+    "formatted_address": "\u0645\u0633\u0642\u0637, \u0639\u0645\u0627\u0646"
+  },
+  "Newport News VA": {
+    "lat": 36.9775016,
+    "lon": -76.42977,
+    "country_code": "us",
+    "formatted_address": "Newport News, Virginia, United States"
+  },
+  "Seminyak": {
+    "lat": -8.6908357,
+    "lon": 115.1641975,
+    "country_code": "id",
+    "formatted_address": "Seminyak, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia"
+  },
+  "Balaclava": {
+    "lat": -37.8696293,
+    "lon": 144.9934809,
+    "country_code": "au",
+    "formatted_address": "Balaclava, Balaclava Walk, Balaclava, Melbourne, City of Port Phillip, Victoria, 3183, Australia"
+  },
+  "Manchester VT": {
+    "lat": 43.176909,
+    "lon": -73.0568716,
+    "country_code": "us",
+    "formatted_address": "Manchester, Bennington County, Vermont, United States"
+  },
+  "Pantai Kok": {
+    "lat": 6.364685,
+    "lon": 99.68340888141378,
+    "country_code": "my",
+    "formatted_address": "Pantai Kok, Langkawi, Kedah, Malaysia"
+  },
+  "Costa Navarino": {
+    "lat": 49.4613241,
+    "lon": 11.1034888,
+    "country_code": "de",
+    "formatted_address": "Costa Navarino, 39, Fichtestra\u00dfe, Rennweg, Schoppershof, N\u00fcrnberg, Bayern, 90489, Deutschland"
+  },
+  "Pinhao": {
+    "lat": -25.6960895,
+    "lon": -51.6566366,
+    "country_code": "br",
+    "formatted_address": "Pinh\u00e3o, Regi\u00e3o Geogr\u00e1fica Imediata de Guarapuava, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Guarapuava, Paran\u00e1, Regi\u00e3o Sul, 85170-000, Brasil"
+  },
+  "Cervaes": {
+    "lat": 41.5959943,
+    "lon": -8.5230863,
+    "country_code": "pt",
+    "formatted_address": "Cerv\u00e3es, Vila Verde, Braga, Portugal"
+  },
+  "Troia": {
+    "lat": 41.363128,
+    "lon": 15.312347,
+    "country_code": "it",
+    "formatted_address": "Troia, Foggia, Puglia, 71029, Italia"
+  },
+  "Rabac": {
+    "lat": 45.0804894,
+    "lon": 14.1530529,
+    "country_code": "hr",
+    "formatted_address": "Rabac, Grad Labin, Istarska \u017eupanija, 52221, Hrvatska"
+  },
+  "Nea Stira": {
+    "lat": 38.1802543,
+    "lon": 24.2081102,
+    "country_code": "gr",
+    "formatted_address": "\u039d\u03ad\u03b1 \u03a3\u03c4\u03cd\u03c1\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03c4\u03c5\u03c1\u03b1\u03af\u03c9\u03bd, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b1\u03c1\u03cd\u03c3\u03c4\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03b2\u03bf\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2, 340 15, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Praia Verde": {
+    "lat": 37.17388625,
+    "lon": -7.479309281553727,
+    "country_code": "pt",
+    "formatted_address": "Praia Verde, Castro Marim, Faro, Portugal"
+  },
+  "Vidago": {
+    "lat": 41.6417013,
+    "lon": -7.5717338,
+    "country_code": "pt",
+    "formatted_address": "Vidago (Uni\u00e3o das freguesias de Vidago, Arcoss\u00f3, Selhariz e Vilarinho das Paranheiras), Chaves, Vila Real, Portugal"
+  },
+  "Vittoria": {
+    "lat": 36.9514957,
+    "lon": 14.5304867,
+    "country_code": "it",
+    "formatted_address": "Vittoria, Ragusa, Sicilia, 97019, Italia"
+  },
+  "Cozumel": {
+    "lat": 20.4320599,
+    "lon": -86.92069058377268,
+    "country_code": "mx",
+    "formatted_address": "Isla Cozumel, Cozumel, Quintana Roo, M\u00e9xico"
+  },
+  "Tremosine Sul Garda": {
+    "lat": 45.7710786,
+    "lon": 10.7607733,
+    "country_code": "it",
+    "formatted_address": "Tremosine sul Garda, Comunit\u00e0 Montana Parco Alto Garda bresciano, Brescia, Lombardia, 25010, Italia"
+  },
+  "Brixen im Thale": {
+    "lat": 47.4494684,
+    "lon": 12.2494696,
+    "country_code": "at",
+    "formatted_address": "Brixen im Thale, Bezirk Kitzb\u00fchel, Tirol, 6364, \u00d6sterreich"
+  },
+  "Porches": {
+    "lat": 37.1255179,
+    "lon": -8.3994888,
+    "country_code": "pt",
+    "formatted_address": "Porches, Lagoa, Faro, Portugal"
+  },
+  "Somerset": {
+    "lat": 51.161750850000004,
+    "lon": -3.0753867062227487,
+    "country_code": "gb",
+    "formatted_address": "Somerset, England, United Kingdom"
+  },
+  "Olimpia": {
+    "lat": 37.638250299999996,
+    "lon": 21.630566024011667,
+    "country_code": "gr",
+    "formatted_address": "\u039f\u03bb\u03c5\u03bc\u03c0\u03af\u03b1, \u0395\u039f74, \u0391\u03c1\u03c7\u03b1\u03af\u03b1 \u039f\u03bb\u03c5\u03bc\u03c0\u03af\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c1\u03c7\u03b1\u03af\u03b1\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03af\u03b1\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03af\u03b1\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03bb\u03b5\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 270 65, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Alcobaca": {
+    "lat": -17.5215875,
+    "lon": -39.1965474,
+    "country_code": "br",
+    "formatted_address": "Alcoba\u00e7a, Regi\u00e3o Geogr\u00e1fica Imediata de Teixeira de Freitas, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ilh\u00e9us-Itabuna, Bahia, Regi\u00e3o Nordeste, 45910-000, Brasil"
+  },
+  "Sarakiniko": {
+    "lat": 36.7427613,
+    "lon": 24.45831227311765,
+    "country_code": "gr",
+    "formatted_address": "\u03a3\u03b1\u03c1\u03b1\u03ba\u03ae\u03bd\u03b9\u03ba\u03bf, \u0391\u03b4\u03ac\u03bc\u03b1\u03bd\u03c4\u03b1\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03ae\u03bb\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03ae\u03bb\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, 848 00, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Murg": {
+    "lat": 48.6977936,
+    "lon": 8.3502273,
+    "country_code": "de",
+    "formatted_address": "Murg, Landkreis Rastatt, Baden-W\u00fcrttemberg, Deutschland"
+  },
+  "Maagau": {
+    "lat": 42.9908354,
+    "lon": 118.438003,
+    "country_code": "cn",
+    "formatted_address": "\u6bdb\u5c71\u4e1c\u4e61 \u182e\u1820\u182d\u1824 \u1831\u1820\u1829\u1833\u1820, \u6bdb\u5c71\u4e1c\u4e61 \u182e\u1820\u182d\u1824 \u1831\u1820\u1829\u1833\u1820 \u1830\u1822\u1836\u1820\u1829, \u7fc1\u725b\u7279\u65d7 \u1823\u1829\u1828\u1822\u182d\u1824\u1833 \u182c\u1823\u1830\u1822\u182d\u1824, \u8d64\u5cf0\u5e02 \u1824\u182f\u1820\u182d\u1820\u1828\u182c\u1820\u1833\u1820 \u182c\u1823\u1832\u1820, \u5185\u8499\u53e4\u81ea\u6cbb\u533a \u1826\u182a\u1826\u1837 \u182e\u1823\u1829\u182d\u1824\u182f \u1824\u1828 \u1825\u182a\u1821\u1837\u1832\u1821\u182d\u1821\u1828 \u1835\u1820\u1830\u1820\u182c\u1823 \u1823\u1837\u1823\u1828, \u4e2d\u56fd"
+  },
+  "Altura": {
+    "lat": 39.8512304,
+    "lon": -0.5128608,
+    "country_code": "es",
+    "formatted_address": "Altura, l'Alt Pal\u00e0ncia, Castell\u00f3 / Castell\u00f3n, Comunitat Valenciana, Espa\u00f1a"
+  },
+  "Montebello": {
+    "lat": 34.0159398,
+    "lon": -118.111975,
+    "country_code": "us",
+    "formatted_address": "Montebello, Los Angeles County, California, United States"
+  },
+  "Addis Ababa": {
+    "lat": 9.0358287,
+    "lon": 38.7524127,
+    "country_code": "et",
+    "formatted_address": "\u12a0\u12f2\u1235 \u12a0\u1260\u1263 / Addis Ababa, Arada, \u12a0\u12f2\u1235 \u12a0\u1260\u1263 / Addis Ababa, \u12a0\u12f2\u1235 \u12a0\u1260\u1263, 3578, \u12a2\u1275\u12ee\u1335\u12eb \u0625\u062b\u064a\u0648\u0628\u064a\u0627"
+  },
+  "Garda": {
+    "lat": 45.5756512,
+    "lon": 10.7085298,
+    "country_code": "it",
+    "formatted_address": "Garda, Verona, Veneto, 37016, Italia"
+  },
+  "Prelog": {
+    "lat": 46.3366064,
+    "lon": 16.614794,
+    "country_code": "hr",
+    "formatted_address": "Grad Prelog, Me\u0111imurska \u017eupanija, 40323, Hrvatska"
+  },
+  "Grande Gaube": {
+    "lat": -20.008061,
+    "lon": 57.6684362,
+    "country_code": "mu",
+    "formatted_address": "Grande Gaube Store, Grand Gaube Coast Road, Petit Camp, Grand Gaube, Riviere du Rempart, 30617, Mauritius / Maurice"
+  },
+  "Gisenyi": {
+    "lat": -1.693545,
+    "lon": 29.259855,
+    "country_code": "rw",
+    "formatted_address": "Gisenyi, Rubavu, Iburengerazuba, Rwanda"
+  },
+  "Paliouri": {
+    "lat": 39.9416224,
+    "lon": 23.6624942,
+    "country_code": "gr",
+    "formatted_address": "\u03a0\u03b1\u03bb\u03b9\u03bf\u03cd\u03c1\u03b9, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b1\u03c3\u03c3\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 630 85, \u0395\u03bb\u03bb\u03ac\u03c2"
+  },
+  "Motel in, Pauanui": {
+    "lat": -37.024418749999995,
+    "lon": 175.85816850251257,
+    "country_code": "nz",
+    "formatted_address": "Pauanui Pines Motor Lodge, 174, Vista Paku, Pauanui, Thames-Coromandel District, Waikato, 3546, New Zealand / Aotearoa"
+  },
+  "Vila Franca do Campo": {
+    "lat": 37.7171624,
+    "lon": -25.4335352,
+    "country_code": "pt",
+    "formatted_address": "Vila Franca do Campo, A\u00e7ores, Portugal"
+  },
+  "Motel in, Traralgon": {
+    "lat": -38.1983771,
+    "lon": 146.5362265,
+    "country_code": "au",
+    "formatted_address": "Comfort Inn, Princes Street, Traralgon, City of Latrobe, Victoria, 3844, Australia"
+  },
+  "Lagoa": {
+    "lat": 37.13258125,
+    "lon": -8.45505094811731,
+    "country_code": "pt",
+    "formatted_address": "Lagoa, Faro, Portugal"
+  }
+}
