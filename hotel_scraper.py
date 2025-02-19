@@ -343,7 +343,7 @@ class TravelmythScraper:
         except Exception as e:
             logger.error(f"Error navigating to next page: {str(e)}")
             return False
-
+    #checkpoint
     def save_checkpoint(self, data: List[Dict], current_page: int):
         """Save checkpoint after each page"""
         try:
