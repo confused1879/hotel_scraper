@@ -3,8 +3,8 @@ import sqlite3
 import pandas as pd
 import plotly.express as px
 from typing import Dict
-import folium
-from streamlit_folium import folium_static
+#import folium
+#from streamlit_folium import folium_static
 import json
 import os
 from amadeus_hotels import AmadeusHotelSearch
